@@ -1,4 +1,4 @@
-# angular-bootstrap-grunt boilerplate — the seed for AngularJS apps
+# augmented-angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
@@ -13,14 +13,14 @@ The seed app doesn't do much, just shows how to wire two controllers and views t
 
 ## Getting Started
 
-To get you started you can simply clone the angular-seed repository and install the dependencies:
+To get you started you can simply clone this repository and install the dependencies:
 
-### Clone angular-seed
+### Clone augmented-angular-seed
 
 Clone the angular-seed repository using [git][git]:
 
 ```
-git clone https://github.com/angular/angular-seed.git
+git clone https://github.com/gwythen/angular-seed.git
 cd angular-seed
 ```
 
