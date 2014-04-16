@@ -1,5 +1,5 @@
 /* app css stylesheet */
-/* line 3, ../scss/app.scss */
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
@@ -7,28 +7,23 @@
   padding: 0 0 0.5em;
 }
 
-/* line 10, ../scss/app.scss */
 .menu:before {
   content: "[";
 }
 
-/* line 14, ../scss/app.scss */
 .menu:after {
   content: "]";
 }
 
-/* line 18, ../scss/app.scss */
 .menu > li {
   display: inline;
 }
 
-/* line 22, ../scss/app.scss */
 .menu > li:before {
   content: "|";
   padding-right: 0.3em;
 }
 
-/* line 27, ../scss/app.scss */
 .menu > li:nth-child(1):before {
   content: "";
   padding: 0;

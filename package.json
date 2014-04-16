@@ -1,16 +1,23 @@
 {
-  "name": "angular-seed",
+  "name": "augmented-angular-seed",
   "private": true,
   "version": "0.0.0",
   "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/gwythen/angular-seed",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "~0.17.0",
     "http-server": "^0.6.1",
     "bower": "^1.3.1",
-    "shelljs": "^0.2.6"
+    "shelljs": "^0.2.6",
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*"
   },
   "scripts": {
     "postinstall": "bower install",
