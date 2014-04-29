@@ -4,7 +4,7 @@ This project is an application skeleton for a typical [AngularJS](http://angular
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
 
-The project is based on [angular-seed](https://github.com/angular/angular-seed). 
+The project is based on [angular-seed](https://github.com/angular/angular-seed).
 
 As to adapt it to my typical workflow, it was augmented with Grunt, Bootstrap, Compass, AngularUI-Bootstrap and AngularUI-router.
 
@@ -43,6 +43,9 @@ folders in your project.
 
 * `node_modules` - contains the npm packages for the tools we need
 * `bower_components` - contains the angular framework files
+
+By default, the bower_components directory is created in your app folder. In order to change it,
+please edit the .bowercc file located in the root directory.
 
 ### Run the Application
 
