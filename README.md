@@ -10,6 +10,25 @@ As to adapt it to my typical workflow, it was augmented with Grunt, Bootstrap, C
 
 The seed app doesn't do much, just shows how to wire two controllers and views together.
 
+## What's inside the package
+
+Here's a list of the libraries used by the seed application:  
+
+Dev environment:  
+* [Bower][bower]: A package manager for the web  
+* [Grunt][grunt]: The Javascript Task Runner  
+* [http-server][npm]: a simple zero-configuration command-line http server for node.js  
+
+Front-End development:  
+* [Bootstrap][bootstrap]: a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.  
+* [AngularUI][angular-ui-bootstrap]: Angular directives for Bootstrap  
+* [Compass][compass]: CSS authoring tool  
+
+Testing:  
+* [Protractor][protractor]: E2E test framework for Angular apps  
+* [Jasmine][jasmine]: Behavior-Driven JavaScript  
+* [Karma][karma]: AngularJS test runner  
+
 
 ## Getting Started
 
@@ -127,7 +146,7 @@ For more information on Angular-seed please check out https://github.com/angular
 [npm]: https://www.npmjs.org/
 [node]: http://nodejs.org
 [protractor]: https://github.com/angular/protractor
-[jasmine]: http://pivotal.github.com/jasmine/
+[jasmine]: http://jasmine.github.io/
 [karma]: http://karma-runner.github.io
 [travis]: https://travis-ci.org/
 [http-server]: https://github.com/nodeapps/http-server
